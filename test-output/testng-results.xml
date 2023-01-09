@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T17:57:24 IST" name="Default suite" finished-at="2023-01-09T17:59:00 IST" duration-ms="95854">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T17:57:24 IST" name="Default test" finished-at="2023-01-09T17:59:00 IST" duration-ms="95854">
+      <class name="com.tests.TestApp">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.tests.TestApp@659499f1]" started-at="2023-01-09T17:57:24 IST" name="beforeMethod" finished-at="2023-01-09T17:57:30 IST" duration-ms="5539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyCartPage()[pri:0, instance:com.tests.TestApp@659499f1]" started-at="2023-01-09T17:57:30 IST" name="verifyCartPage" finished-at="2023-01-09T17:58:19 IST" duration-ms="49274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.tests.TestApp@659499f1]" started-at="2023-01-09T17:58:19 IST" name="afterMethod" finished-at="2023-01-09T17:58:20 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.tests.TestApp@659499f1]" started-at="2023-01-09T17:58:20 IST" name="beforeMethod" finished-at="2023-01-09T17:58:24 IST" duration-ms="4114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginPage()[pri:0, instance:com.tests.TestApp@659499f1]" started-at="2023-01-09T17:58:24 IST" name="verifyLoginPage" finished-at="2023-01-09T17:59:00 IST" duration-ms="36346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.tests.TestApp@659499f1]" started-at="2023-01-09T17:59:00 IST" name="afterMethod" finished-at="2023-01-09T17:59:00 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.tests.TestApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
