@@ -8,6 +8,7 @@
           <include name="afterMethod"/>
           <include name="verifyCartPage"/>
           <include name="beforeMethod"/>
+          <include name="verifyLoginPage"/>
         </methods>
       </class> <!-- com.tests.TestApp -->
     </classes>
